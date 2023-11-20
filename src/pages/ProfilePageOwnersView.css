@@ -1,0 +1,378 @@
+.layout-icon {
+  position: absolute;
+  top: 310px;
+  left: 135px;
+  width: 1282px;
+  height: 1435px;
+}
+.timeline2 {
+  color: #6e6b56;
+}
+.span {
+  color: #a303a0;
+}
+.p {
+  margin: 0;
+}
+.gallery,
+.timeline {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.timeline {
+  white-space: pre-wrap;
+  width: 95px;
+  height: 32px;
+}
+.gallery {
+  font-weight: 300;
+  width: 65px;
+  height: 26.4px;
+}
+.frame {
+  width: 183px;
+  height: 32.1px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.07806396484375px 0 0;
+  box-sizing: border-box;
+  gap: 23px;
+}
+.videos {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  width: 61px;
+  height: 26.4px;
+  flex-shrink: 0;
+}
+.navbar {
+  position: absolute;
+  top: 511.9px;
+  left: 363px;
+  width: 283px;
+  height: 32.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 39px;
+}
+.profile-page-owners-view-child {
+  position: absolute;
+  top: 558px;
+  left: 798.5px;
+  width: 1px;
+  height: 1202px;
+}
+.i {
+  position: relative;
+  display: inline-block;
+  font-weight: 700;
+  width: 48.1px;
+  height: 27px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.ellipse,
+.rectangle-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 32px;
+  left: 74px;
+  border-radius: 3px;
+  width: 4px;
+  height: 98px;
+  z-index: 1;
+}
+.ellipse {
+  top: 5px;
+  left: 67px;
+  border-radius: 50%;
+  background-color: #6e6b56;
+  width: 19px;
+  height: 18px;
+  z-index: 2;
+}
+.born,
+.location {
+  position: relative;
+}
+.born {
+  align-self: stretch;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 600;
+  color: #2f6926;
+}
+.location {
+  text-transform: capitalize;
+  display: none;
+  font-weight: 300;
+  font-family: Nunito;
+  mix-blend-mode: normal;
+}
+.momotaro-was-born-container {
+  align-self: stretch;
+  position: relative;
+}
+.event,
+.info {
+  position: absolute;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.info {
+  margin: 0 !important;
+  left: 105px;
+  width: 271px;
+  height: 123px;
+  flex-direction: column;
+  padding: 0 0 49px;
+  box-sizing: border-box;
+  gap: 8px;
+  z-index: 3;
+  font-size: 16px;
+  color: #384247;
+  font-family: Inter;
+}
+.event {
+  left: 0;
+  width: 374px;
+  flex-direction: row;
+  gap: 17px;
+}
+.frame1,
+.timeline3 {
+  width: 402.7px;
+  height: 971px;
+}
+.frame1 {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.timeline3 {
+  position: absolute;
+  top: 577px;
+  left: 254px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  color: #2f6926;
+}
+.profile-pic-icon {
+  position: relative;
+  width: 300px;
+  height: 278px;
+}
+.momotaro {
+  position: undefined;
+  display: inline-block;
+  width: 273px;
+  height: 90.1px;
+  flex-shrink: 0;
+  margin-left: 22px;
+}
+.frame3 {
+  width: 300px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.father-husband,
+.frame2 {
+  flex-shrink: 0;
+  position: undefined;
+}
+.father-husband {
+  font-size: 16px;
+  color: #5c4f5c;
+  display: inline-block;
+  width: 149.5px;
+  height: 19.4px;
+  opacity: 0.7;
+  margin-left: 53px;
+  margin-top: -60px;
+}
+.frame2 {
+  width: 368.2px;
+  height: 368.1px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  margin-bottom: 0;
+}
+.cover-photo-icon {
+  position: undefined;
+  border-radius: 33px;
+  width: 356px;
+  height: 258px;
+  object-fit: cover;
+  margin-bottom: 98px;
+}
+.profile-pic-and-name {
+  position: absolute;
+  top: 20px;
+  left: 254px;
+  border-radius: 59px;
+  background: linear-gradient(#fff, #fff), #c4c4c4;
+  width: 1141px;
+  height: 416px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 23.91119384765625px 31px;
+  box-sizing: border-box;
+  gap: 15px;
+  font-size: 30px;
+  color: #000;
+}
+.ezlqwhfuyaqi6br-1-icon {
+  position: absolute;
+  top: 255px;
+  left: 24.5px;
+  border-radius: 37px;
+  width: 254px;
+  height: 240px;
+  object-fit: cover;
+}
+.ezlqvnyucaahgtz-1-icon,
+.momotaro-1-icon {
+  position: absolute;
+  top: 512px;
+  left: 0;
+  border-radius: 69px;
+  width: 301.5px;
+  height: 611px;
+  object-fit: cover;
+}
+.ezlqvnyucaahgtz-1-icon {
+  top: 0;
+  left: 24.5px;
+  border-radius: 34px;
+  width: 254px;
+  height: 240px;
+}
+.frame4,
+.frame5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 301.5px;
+  height: 1123px;
+  overflow: hidden;
+}
+.frame4 {
+  left: 281.5px;
+}
+.ezlqvkdvcacpxxo-1-icon {
+  left: 5px;
+  border-radius: 37px;
+  width: 254px;
+  object-fit: cover;
+}
+.e3semtkxwaybdcb-1-icon,
+.ezlqvkdvcacpxxo-1-icon,
+.frame8 {
+  position: absolute;
+  top: 0;
+  height: 240px;
+}
+.frame8 {
+  left: 0;
+  width: 259px;
+  overflow: hidden;
+}
+.e3semtkxwaybdcb-1-icon {
+  left: 5px;
+  border-radius: 56px;
+  width: 254px;
+  object-fit: cover;
+}
+.frame7,
+.frame9 {
+  position: absolute;
+  top: 255px;
+  left: 0;
+  width: 259px;
+  height: 240px;
+  overflow: hidden;
+}
+.frame7 {
+  top: 0;
+  height: 495px;
+}
+.screenshot-2023-11-17-024136-1 {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  border-radius: 41px;
+  width: 241.4px;
+  height: 340px;
+  object-fit: cover;
+}
+.frame11 {
+  position: absolute;
+  top: 275px;
+  left: 0;
+  width: 245.4px;
+  height: 340px;
+  overflow: hidden;
+}
+.frame10,
+.momotaro20061004-02-1-icon {
+  position: absolute;
+  left: 0;
+  width: 262.4px;
+}
+.momotaro20061004-02-1-icon {
+  top: 0;
+  border-radius: 37px;
+  height: 261px;
+  object-fit: cover;
+}
+.frame10 {
+  top: 512px;
+  height: 615px;
+  overflow: hidden;
+}
+.frame6,
+.minigallery {
+  position: absolute;
+  height: 1127px;
+}
+.frame6 {
+  top: 0;
+  left: 0;
+  width: 262.4px;
+  overflow: hidden;
+}
+.minigallery {
+  top: 591px;
+  left: 812px;
+  width: 583px;
+}
+.profile-page-owners-view {
+  position: relative;
+  background-color: #f7f7f8;
+  width: 100%;
+  height: 1774px;
+  text-align: left;
+  font-size: 20px;
+  color: #6e6b56;
+  font-family: Nunito;
+}

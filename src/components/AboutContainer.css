@@ -1,0 +1,161 @@
+.about1,
+.cake-icon,
+.male {
+  position: relative;
+  flex-shrink: 0;
+}
+.cake-icon {
+  width: 34.4px;
+  height: 38px;
+  overflow: hidden;
+}
+.about1,
+.male {
+  display: inline-block;
+  width: 163.5px;
+  height: 31.7px;
+}
+.male {
+  width: 275.4px;
+  height: 23.7px;
+  opacity: 0.7;
+}
+.email1 {
+  width: 275.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  mix-blend-mode: normal;
+  margin-left: -2px;
+}
+.email,
+.frame13 {
+  display: flex;
+  justify-content: flex-start;
+}
+.email {
+  width: 307.4px;
+  height: 38px;
+  flex-direction: row;
+  align-items: center;
+  margin-top: -10px;
+  font-size: 16px;
+  color: #000;
+}
+.frame13 {
+  width: 309.4px;
+  height: 59px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.born-july-3rd,
+.vector-icon {
+  position: relative;
+  width: 13px;
+  height: 20px;
+}
+.born-july-3rd {
+  display: inline-block;
+  width: 208px;
+  height: 23.7px;
+  flex-shrink: 0;
+  opacity: 0.7;
+}
+.frame15,
+.phone-number {
+  display: flex;
+  align-items: center;
+}
+.phone-number {
+  width: 208px;
+  flex-direction: column;
+  justify-content: center;
+  mix-blend-mode: normal;
+}
+.frame15 {
+  width: 230px;
+  height: 26.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+  gap: 9px;
+  position: undefined;
+  margin-left: 12px;
+}
+.location-icon {
+  position: relative;
+  width: 18px;
+  height: 21px;
+}
+.kyoto-city-zoo {
+  margin: 0;
+}
+.location3 {
+  position: relative;
+  display: inline-block;
+  width: 238.1px;
+  height: 31.7px;
+  flex-shrink: 0;
+}
+.frame14,
+.location2 {
+  align-items: flex-start;
+}
+.location2 {
+  width: 262.1px;
+  height: 31.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 6px;
+  position: undefined;
+  margin-left: 10px;
+  color: #585858;
+}
+.frame14 {
+  width: 272.1px;
+  height: 62.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 16px;
+  color: #000;
+}
+.about,
+.frame12,
+.frame14 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame12 {
+  width: 512px;
+  height: 123.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  position: undefined;
+  margin-bottom: 388px;
+}
+.about {
+  position: absolute;
+  top: 310px;
+  left: 135px;
+  width: 779.4px;
+  height: 512px;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 435px;
+  text-align: left;
+  font-size: 20px;
+  color: #010101;
+  font-family: Nunito;
+}

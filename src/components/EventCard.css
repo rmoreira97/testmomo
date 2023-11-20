@@ -1,0 +1,77 @@
+.ellipse3,
+.i2 {
+  position: relative;
+}
+.i2 {
+  display: inline-block;
+  font-weight: 700;
+  width: 48.1px;
+  height: 27px;
+  flex-shrink: 0;
+}
+.ellipse3 {
+  border-radius: 50%;
+  background-color: #6e6b56;
+  width: 12px;
+  height: 12px;
+}
+.start1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 0;
+}
+.rectangle13 {
+  flex: 1;
+  position: relative;
+  border-radius: 8px;
+  background-color: #2f6926;
+  width: 4px;
+}
+.line1 {
+  align-self: stretch;
+  width: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.gentaro-is-born {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.after-many-mating {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  color: #384247;
+}
+.event2,
+.info2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.info2 {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 48px;
+  gap: 8px;
+  font-family: Inter;
+}
+.event2 {
+  position: absolute;
+  top: 657px;
+  left: 2px;
+  width: 400.7px;
+  height: 143px;
+  flex-direction: row;
+  gap: 16px;
+  text-align: left;
+  font-size: 20px;
+  color: #2f6926;
+  font-family: Nunito;
+}

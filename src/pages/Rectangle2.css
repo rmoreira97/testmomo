@@ -1,0 +1,8 @@
+.rectangle2 {
+  position: relative;
+  border-radius: 5px;
+  border: 9.4px solid #42f5ff;
+  box-sizing: border-box;
+  width: 100%;
+  height: 1716px;
+}
